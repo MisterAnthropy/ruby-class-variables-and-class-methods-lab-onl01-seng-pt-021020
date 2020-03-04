@@ -13,6 +13,6 @@ class Song
     @@genres = []
     @@artists = []
   end
-  
+  def 
     
 end
